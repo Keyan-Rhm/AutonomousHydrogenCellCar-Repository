@@ -1,3 +1,13 @@
+/*
+Project Name : 	AutonomousHydrogenCellCar
+Authors      : 	Yasir Al Shekerchi, David Perna, Tianyu Guo, Keyan Raahemifar
+Course(s)    : 	MTE100, GENE121, CHE 120
+Date Created : 	November 5, 2015
+Date Modified:	November 10, 2015
+Description  : 	The code below contains all the necessary information to run 
+								the AutonomousHydrogenCellCar to run on Track 1.
+*/
+
 #include "UW_GENE_121.h"
 
 void track1(void)
